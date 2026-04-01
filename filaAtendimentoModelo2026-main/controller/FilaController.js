@@ -1,4 +1,3 @@
-
 const minhaFila = new Fila(5);
 function adicionarElemento() {
   const nomeInput = document.getElementById("txtnovoNome");
